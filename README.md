@@ -8,7 +8,7 @@ Can be seen in CYC1000 the pull programable with a 4k7ohm "up or down" that is s
 
 Can be seen in MAX1000 the pull programable with a 4k7ohm "up or down" that is selectable in pins B11 & G13.
 
-There are cores in the future that uses a usb-keyboard using a Logitech Unifiing wirelles technologie.
+There are cores in the future that uses a usb-keyboard using a Logitech Unifiing wireleSs technologie.
 
 
 Selected both pins In pull down -> USB-DIRECT
