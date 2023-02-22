@@ -16,4 +16,7 @@ Selected both pins In pull down -> USB-DIRECT
 Selected both pins  In pull up -> PS2
 
 The core we use for direct boot keyboard is:
+
+THIS IS POSIBLE WITH THE WORK OF THESONDERS FOR A BUNCH OF MONTHS:
+
 https://github.com/TheSonders/USBKeyboard
